@@ -1,0 +1,25 @@
+.profile-img,
+.gallery-img {
+  height: 100vw;
+}
+
+.large-text {
+  font-size: 2rem;
+}
+
+.medium-text {
+  font-size: 1.8rem;
+}
+
+.detail-title {
+  font-size: 0.7rem;
+}
+
+.detail-text {
+  font-size: 1.3rem;
+}
+
+.wave-img {
+  height: 100px;
+  width: 100px;
+}
